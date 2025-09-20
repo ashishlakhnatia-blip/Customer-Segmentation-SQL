@@ -5,7 +5,7 @@ The project aims to **segment customers based on their purchase behavior** to he
 
 ## Tools Used
 - **SQL Server (T-SQL)** – for data extraction, cleaning, and analysis  
-- **Excel** – for data preparation and visualization (if used)  
+- **Excel** – for data preparation 
 
 ## Dataset
 - Retail dataset of customers (mock/sample data)  
